@@ -13,3 +13,4 @@ payload:
   - DOMAIN,www.google-analytics.com
   - DOMAIN,people-pa.clients6.google.com
   - DOMAIN,waa-pa.clients6.google.com
+  - DOMAIN,notebooklm.google.com
